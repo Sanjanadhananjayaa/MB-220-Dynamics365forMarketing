@@ -1,6 +1,6 @@
 # **Getting Started with Your MB-220-Dynamics365forMarketing Workshop**
  
-Welcome to your MB-220-Dynamics365forMarketing! We've prepared a seamless environment for you to explore and learn about Azure services. Let's begin by making the most of this experience:
+Welcome to your MB-220-Dynamics365forMarketing! We've prepared a seamless environment for you to explore and learn about dynamic 365 application. Let's begin by making the most of this experience:
  
 ## **Accessing Your Lab Environment**
  
