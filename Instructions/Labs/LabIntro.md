@@ -32,6 +32,6 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
   Click "Next" from the bottom right corner to embark on your Lab journey!
  
-   ![Picture1.](media/5.png)
+   ![Picture1.](../media/5.png)
 
 Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
