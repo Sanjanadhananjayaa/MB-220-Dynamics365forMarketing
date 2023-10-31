@@ -23,12 +23,6 @@ To get a better understanding of your lab resources and credentials, navigate to
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
  
    ![Access Your VM and Lab Guide](../media/8.png)
- 
-## **Managing Your Virtual Machine**
- 
-Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
-
-   ![Access Your VM and Lab Guide](../media/3.png)
 
   Click "Next" from the bottom right corner to embark on your Lab journey!
  
