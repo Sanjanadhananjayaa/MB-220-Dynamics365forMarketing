@@ -1,6 +1,6 @@
 # **Getting Started with Your MB-220-Dynamics365forMarketing Workshop**
  
-Welcome to your MB-220-Dynamics365forMarketing! We've prepared a seamless environment for you to explore and learn about dynamic 365 application. Let's begin by making the most of this experience:
+Welcome to your MB-220-Dynamics365forMarketing Workshop! We've prepared a seamless environment for you to explore and learn how to attract and convert leads, build brand awareness, standardize omnichannel messaging and deliver marketing insights. Let's begin by making the most of this experience:
  
 ## **Accessing Your Lab Environment**
  
