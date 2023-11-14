@@ -24,7 +24,27 @@ For convenience, you can open the lab guide in a separate window by selecting th
  
    ![Access Your VM and Lab Guide](../media/8.png)
 
-  Click "Next" from the bottom right corner to embark on your Lab journey!
+## **Managing Your Virtual Machine**
+ 
+Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
+ 
+![Manage Your Virtual Machine](../media/g4.png)
+
+## **Lab Duration Extension**
+
+1. To extend the duration of the lab, kindly click the **Hourglass** icon in the top right corner of the lab environment. 
+
+    ![Manage Your Virtual Machine](../media/gext.png)
+
+    >**Note:** You will get the **Hourglass** icon when 10 minutes are remaining in the lab.
+
+2. Click **OK** to extend your lab duration.
+ 
+   ![Manage Your Virtual Machine](../media/gext2.png)
+
+3. If you have not extended the duration prior to when the lab is about to end, a pop-up will appear, giving you the option to extend. Click **OK** to proceed.
+
+4. Click "Next" from the bottom right corner to embark on your Lab journey!
  
    ![Picture1.](../media/5.png)
 
